@@ -8,7 +8,6 @@ import java.util.List;
 
 
 public interface TagService {
-
     Tag saveTag(Tag type);
 
     Tag getTag(Long id);

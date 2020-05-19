@@ -24,7 +24,6 @@ import java.util.*;
 @Service
 public class BlogServiceImpl implements BlogService {
 
-
     @Autowired
     private BlogRepository blogRepository;
 
@@ -94,8 +93,8 @@ public class BlogServiceImpl implements BlogService {
 
     @Override
     public List<Blog> listRecommendBlogTop(Integer size) {
-        Sort sort = new Sort(Sort.Direction.DESC,"updateTime");
-        Pageable pageable = new PageRequest(0, size, sort);
+        Sort.Order order=new Sort.Order(Sort.Direction.DESC, "updateTime");
+        Pageable pageable=PageRequest.of(0,size,Sort.by("updateTime"));
         return blogRepository.findTop(pageable);
     }
 

@@ -3,3 +3,14 @@ spring:
     mode: HTML
   profiles:
     active: dev
+
+
+
+
+comment.avator: /images/avator.png
+
+
+
+#messages:
+ # basename: /i18n/messages
+

@@ -10,7 +10,6 @@ import java.util.Map;
 
 
 public interface BlogService {
-
     Blog getBlog(Long id);
 
     Blog getAndConvert(Long id);
