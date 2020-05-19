@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd087476-a96c-45f7-8f73-1f9d6292b13b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitee/ISSUE_TEMPLATE.zh-CN.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitee/PULL_REQUEST_TEMPLATE.zh-CN.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.en.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ycs/blog/web/AboutShowController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ycs/blog/web/ArchiveShowController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ycs/blog/web/CommentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ycs/blog/web/TagShowController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ycs/blog/web/TypeShowController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ycs/blog/web/admin/BlogController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ycs/blog/web/admin/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ycs/blog/web/admin/TagController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ycs/blog/web/admin/TypeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/i18n/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/i18n/messages_en_US.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/i18n/messages_zh_CN.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/blog.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/blog-dev.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/blog-dev.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/blog-dev.log.2020-02-13.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/blog-dev.log.2020-02-18.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ycs/blog/dao/BlogRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ycs/blog/dao/BlogRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ycs/blog/service/BlogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ycs/blog/service/BlogService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ycs/blog/service/BlogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ycs/blog/service/BlogServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ycs/blog/service/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ycs/blog/service/CommentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ycs/blog/service/CommentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ycs/blog/service/CommentServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ycs/blog/service/TagService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ycs/blog/service/TagService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ycs/blog/util/MarkdownUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ycs/blog/util/MarkdownUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ycs/blog/web/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ycs/blog/web/IndexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ycs/blog/web/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ycs/blog/web/IndexController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/blog.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +151,7 @@
       <workItem from="1586602986379" duration="671000" />
       <workItem from="1587370137667" duration="616000" />
       <workItem from="1587887993839" duration="13000" />
-      <workItem from="1589869860887" duration="7111000" />
+      <workItem from="1589869860887" duration="7636000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1584093020652</created>
@@ -225,16 +188,55 @@
       <option name="project" value="LOCAL" />
       <updated>1584093681351</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Merge branch 'master' of https://gitee.com/yuanruobai/SpringBootBlog&#10;&#10;# Conflicts:&#10;#&#9;.gitignore">
+      <created>1589899159947</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589899159947</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second commit" />
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="Merge branch 'master' of https://gitee.com/yuanruobai/SpringBootBlog&#10;&#10;# Conflicts:&#10;#&#9;.gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://gitee.com/yuanruobai/SpringBootBlog&#10;&#10;# Conflicts:&#10;#&#9;.gitignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="12" y="71" key="#Assign_Data_Sources" timestamp="1585908770188">
@@ -261,10 +263,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1581526544219" />
-    <state x="249" y="1" key="CommitChangelistDialog2" timestamp="1584093679870">
+    <state x="249" y="0" key="CommitChangelistDialog2" timestamp="1589899158092">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="1" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584093679870" />
+    <state x="249" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589899158092" />
     <state x="147" y="71" key="DiffContextDialog" timestamp="1584093470623">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
